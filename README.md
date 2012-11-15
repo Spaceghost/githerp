@@ -8,3 +8,4 @@ Clone this and use any tool you like to visualize the history.
 * Merge with no-ff
 * Rebase
 * Merge with squash
+* Github merge
